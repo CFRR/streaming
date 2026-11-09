@@ -96,5 +96,8 @@ max.com
 #uts-api.itunes.apple.com
 
 # SKYSHOWTIME
-cssott.com
-skyshowtime.com
+#cssott.com
+#skyshowtime.com
+
+# STREAMING TELEMETRIC
+conviva.com
