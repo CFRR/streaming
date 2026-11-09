@@ -1,0 +1,103 @@
+#
+# OTT - 003
+# 09/11/2026
+#
+
+# NETFLIX
+netflix.ca
+netflix.com
+netflix.com.edgesuite.net
+netflix.net
+netflixdnstest0.com
+netflixdnstest1.com
+netflixdnstest10.com
+netflixdnstest2.com
+netflixdnstest3.com
+netflixdnstest4.com
+netflixdnstest5.com
+netflixdnstest6.com
+netflixdnstest7.com
+netflixdnstest8.com
+netflixdnstest9.com
+nflxext.com
+nflximg.com
+nflximg.net
+nflxsearch.net
+nflxso.net
+nflxvideo.net
+
+# DISNEY+
+bamgrid.com
+bamtech.net
+dilcdn.com
+disney-plus.net
+disney.com
+disneyaccount.com
+disneyplus.com
+disneystreaming.com
+disneysubscription.com
+dmed.technology
+dssedge.com
+dssott.com
+
+# HBO MAX / MAX
+discomax.com
+hbo.com
+hbo.com.c.footprint.net
+hbo.com.edgesuite.net
+hbo.eu
+hbo.map.fastly.net
+hbogo.com
+hbogo.eu
+hbomax-images.warnermediacdn.com
+hbomax.com
+hbomax.eu
+hbomaxcdn.com
+hbomaxdash.s.llnwi.net
+hbonow.com
+hboportugal.com
+hboprod.com
+max.com
+
+# AMAZON PRIME VIDEO
+#aiv-cdn.net
+#aiv-delivery.net
+#amazonprimevideos.com
+#amazonvideo.cc
+#amazonvideo.com
+#d1v5ir2lpwr8os.cloudfront.net
+#d22qjgkvxw22r6.cloudfront.net
+#d25xi40x97liuc.cloudfront.net
+#d27xxe7juh1us6.cloudfront.net
+#dmqdd6hw24ucf.cloudfront.net
+#images-eu.ssl-images-amazon.com
+#images-fe.ssl-images-amazon.com
+#images-na.ssl-images-amazon.com
+#msh.amazon.co.uk
+#prime-video.com
+#primevideo.cc
+#primevideo.com
+#primevideo.info
+#primevideo.org
+#primevideo.tv
+#prod.service.minerva.devices.a2z.com
+#pv-cdn.net
+#static.siege-amazon.com
+
+# APPLE TV+
+#hls-amt.itunes.apple.com
+#hls-svod-aoc-ve.itunes.g.aaplimg.com
+#hls-svod-ve.itunes.g.aaplimg.com
+#hls-svod.itunes.apple.com
+#hls.itunes.apple.com
+#np-edge.itunes.apple.com
+#play-edge.itunes.apple.com
+#tv.apple.com
+#uts-api.itunes.apple.com
+
+# SKYSHOWTIME
+cssott.com
+skyshowtime.com
+
+# STREAMING TELEMETRIC
+conviva.com
