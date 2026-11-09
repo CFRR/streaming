@@ -41,23 +41,23 @@ dssedge.com
 dssott.com
 
 # HBO MAX / MAX
-discomax.com
-hbo.com
-hbo.com.c.footprint.net
-hbo.com.edgesuite.net
-hbo.eu
-hbo.map.fastly.net
-hbogo.com
-hbogo.eu
-hbomax-images.warnermediacdn.com
-hbomax.com
-hbomax.eu
-hbomaxcdn.com
-hbomaxdash.s.llnwi.net
-hbonow.com
-hboportugal.com
-hboprod.com
-max.com
+#discomax.com
+#hbo.com
+#hbo.com.c.footprint.net
+#hbo.com.edgesuite.net
+#hbo.eu
+#hbo.map.fastly.net
+#hbogo.com
+#hbogo.eu
+#hbomax-images.warnermediacdn.com
+#hbomax.com
+#hbomax.eu
+#hbomaxcdn.com
+#hbomaxdash.s.llnwi.net
+#hbonow.com
+#hboportugal.com
+#hboprod.com
+#max.com
 
 # AMAZON PRIME VIDEO
 #aiv-cdn.net
