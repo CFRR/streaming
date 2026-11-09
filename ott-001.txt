@@ -27,18 +27,18 @@
 #nflxvideo.net
 
 # DISNEY+
-bamgrid.com
-bamtech.net
-dilcdn.com
-disney-plus.net
-disney.com
-disneyaccount.com
-disneyplus.com
-disneystreaming.com
-disneysubscription.com
-dmed.technology
-dssedge.com
-dssott.com
+#bamgrid.com
+#bamtech.net
+#dilcdn.com
+#disney-plus.net
+#disney.com
+#disneyaccount.com
+#disneyplus.com
+#disneystreaming.com
+#disneysubscription.com
+#dmed.technology
+#dssedge.com
+#dssott.com
 
 # HBO MAX / MAX
 discomax.com
